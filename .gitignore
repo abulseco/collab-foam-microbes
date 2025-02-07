@@ -55,4 +55,4 @@ rsconnect/
 .rds
 
 #RStudio
-.rstudio 
+.Rproj
